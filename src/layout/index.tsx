@@ -173,12 +173,12 @@ export function AppLayout() {
           ·{" "}
           <UnderlineHover asChild>
             <a
-              href="https://github.com/slepoh"
+              href="https://webto.work"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-1 align-middle"
             >
-              GitHub
+              WebToWork
             </a>
           </UnderlineHover>{" "}
           ·{" "}
