@@ -38,7 +38,7 @@ export default function ApiUsagePage() {
       </h1>
       <p className="leading-7 text-muted-foreground">
         {t(
-          "One IP 提供公开 API，可查询请求出口的 IP、位置信息、ASN、信誉分和风险标记，无需 API Key。",
+          "提供公开 API，可查询请求出口的 IP、位置信息、ASN、信誉分和风险标记，无需 API Key。",
         )}
       </p>
       <p className="break-words leading-7">
@@ -55,7 +55,7 @@ export default function ApiUsagePage() {
       <ApiCodeBlock code={command} language="bash" />
       <a
         className="inline-block text-sm text-primary hover:underline"
-        href="https://huzhihui.com/blog/one-ip-guide"
+        href="https://823331.xyz"
         target="_blank"
         rel="noopener noreferrer"
       >
